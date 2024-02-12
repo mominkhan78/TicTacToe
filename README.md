@@ -1,5 +1,11 @@
 <h1>TicTacToe Using HTML, CSS, Bootstrap and JavaScript</h1>
 
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <img src="./TicTacToe.png" width="400px">
+    <img src="./TicTacToeOutput.png" width="400px">
+</div>
+
+
 <p>Exciting news, everyone! I'm thrilled to announce the launch of my new GitHub repository featuring a captivating game built using HTML, CSS, Bootstrap, and JavaScript! 🌟
 
 👉 Are you ready to embark on a journey of fun and excitement? Explore the thrilling world of [Game Name] where every move counts and every level presents new challenges.
